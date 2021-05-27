@@ -1,3 +1,7 @@
+*.npy
+glove.6B.50d.txt
+*.mp3
+*.h5
 *.mp4
 *.pptx
 
